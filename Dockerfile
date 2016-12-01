@@ -1,3 +1,2 @@
-FROM astiunov/data-science-jupyter:latest
-MAINTAINER Alexander Tiunov <astiunov@yandex-team.ru>
+FROM yandexdataschool/neurohack-jupyter:2016.12
 
